@@ -11,13 +11,13 @@ _Hello there this is **Aashish Rawte**. A **Full Stack Web Developer**. You can 
 <table width="100" align='center'>
 <tr>
     <td align='center' width="60">
-        <a href="https://twitter.com/AashishRawte"><img src="https://image.flaticon.com/icons/svg/2111/2111703.svg" width="60"></a>
+        <a href="https://twitter.com/AashishRawte"><img src="./icon/twitter.png" width="60"></a>
     </td>
     <td align='center' width="60">
-        <a href="https://www.instagram.com/anqunix/"><img src="https://image.flaticon.com/icons/svg/2111/2111421.svg"></a>
+        <a href="https://www.instagram.com/anqunix/"><img src="./icon/instagram.jpg"></a>
     </td>
     <td align='center' width="60">
-        <a href="https://www.linkedin.com/in/aashish-rawte-62723b16b/"><img src="https://image.flaticon.com/icons/svg/2111/2111465.svg" width="60"></a>
+        <a href="https://www.linkedin.com/in/aashish-rawte-62723b16b/"><img src="./icon/linkedin.png" width="60"></a>
     </td>
 </tr>
 </table>
